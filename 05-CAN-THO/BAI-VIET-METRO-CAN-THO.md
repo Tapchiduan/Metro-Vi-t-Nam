@@ -124,3 +124,14 @@ Bạn đọc có thể xem thêm [chuyên trang Metro Việt Nam](https://reales
 4. Quyết định 2404/QĐ-TTg ngày 29/10/2025: https://moc.gov.vn/vn/Pages/chitiettin.aspx?ChuyenmucID=1196&IDNews=89340&tieude=quyet-dinh-phe-duyet-dieu-chinh-quy-hoach-mang-luoi-duong-sat-thoi-ky-2021--2030-tam-nhin-den-nam-2050.aspx
 
 *Ngày rà soát: 13/11/2026.*
+
+## Trạng thái xuất bản WordPress
+
+- **Trạng thái:** Đã xuất bản trực tiếp qua kết nối Jet.
+- **URL:** https://realestateproject.vn/metro-viet-nam/metro-can-tho.html
+- **Page ID:** 31896; **trang cha:** Metro Việt Nam (27979).
+- **Ảnh đại diện:** Media ID 31892 – Bến Ninh Kiều và cầu đi bộ Cần Thơ.
+- **Ảnh trong bài:** Media ID 31892, 31893 – Bến Ninh Kiều và bờ sông Hậu.
+- **SEO title:** Metro Cần Thơ: Quy hoạch 4 tuyến đường sắt đô thị.
+- **Meta description:** Cập nhật quy hoạch 4 tuyến đường sắt đô thị Cần Thơ, ga Hưng Phú, định hướng TOD và phân biệt Metro với tuyến đường sắt quốc gia TP.HCM – Cần Thơ.
+- **Từ khóa chính:** Metro Cần Thơ. **Tags trang:** metro Việt Nam; đường sắt đô thị Việt Nam; quy hoạch metro Việt Nam; Metro Cần Thơ.
