@@ -116,13 +116,6 @@ Bạn đọc có thể xem thêm [chuyên trang Metro Việt Nam](https://reales
 
 **Góc nhìn Real Estate Project:** Giá trị dài hạn của Metro Cần Thơ sẽ phụ thuộc vào khả năng kết nối giữa các khu đô thị, khu công nghiệp, ga đường sắt quốc gia và cảng biển. Việc đánh giá bất động sản cần dựa trên vị trí ga chính thức, tiến độ đầu tư, quy hoạch sử dụng đất và nhu cầu thực tế, không dựa vào suy đoán từ bản đồ quy hoạch sơ bộ.
 
-## Nguồn tham khảo
-
-1. Quyết định 3639/QĐ-UBND ngày 31/12/2025: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-3639-QD-UBND-2025-dieu-chinh-quy-hoach-Can-Tho-2021-2030-694345.aspx
-2. Phụ lục VIII PDF: https://cdn.thuvienphapluat.vn/uploads/nhadat/2026/NTTU/23012026/pl-can-tho.pdf
-3. Quyết định 1519/QĐ-TTg ngày 02/12/2023: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-1519-QD-TTg-2023-Quy-hoach-Thanh-pho-Can-Tho-2021-2030-tam-nhin-2050-588979.aspx
-4. Quyết định 2404/QĐ-TTg ngày 29/10/2025: https://moc.gov.vn/vn/Pages/chitiettin.aspx?ChuyenmucID=1196&IDNews=89340&tieude=quyet-dinh-phe-duyet-dieu-chinh-quy-hoach-mang-luoi-duong-sat-thoi-ky-2021--2030-tam-nhin-den-nam-2050.aspx
-
 *Ngày rà soát: 13/11/2026.*
 
 ## Trạng thái xuất bản WordPress
