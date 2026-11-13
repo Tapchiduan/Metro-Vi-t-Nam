@@ -23,3 +23,11 @@
 - Giữ ghi công nguồn ảnh trong caption hoặc credit nếu yêu cầu.
 - Tạo tên tệp có dấu không dấu, ALT mô tả đúng nội dung ảnh, không nhồi từ khóa.
 - Chỉ tải lên Media Library sau khi WPVibe upload đã hoạt động.
+
+
+## Đã upload vào WordPress Media Library
+
+- **Trang sử dụng:** https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html (Page ID 31894).
+- **Ảnh đại diện và ảnh trong bài:** Media ID 31502 – https://realestateproject.vn/wp-content/uploads/2026/11/cang-container-hai-phong-tu-tren-cao.jpg
+- **Ảnh tư liệu quy hoạch có sẵn:** Media ID 31501; không dùng làm sơ đồ Metro hoặc bản đồ 9 tuyến.
+- **Trạng thái:** Đã xuất bản trang qua Jet. Chưa tải thêm ảnh trung tâm Hải Phòng do nguồn ảnh bên ngoài chưa xác minh quyền sử dụng.
