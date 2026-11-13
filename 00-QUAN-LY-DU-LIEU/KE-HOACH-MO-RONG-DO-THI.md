@@ -110,3 +110,8 @@ Trang hub Metro Việt Nam (Page ID 27979) đã được bổ sung liên kết n
 ## Lưu ý metadata SEO
 
 SEO title đã đặt theo tiêu đề trang và meta description đã lưu trong excerpt WordPress. Jet REST hiện không trả lại các trường meta Yoast riêng (_yoast_wpseo_title, _yoast_wpseo_metadesc, _yoast_wpseo_focuskw) sau cập nhật; do đó không ghi nhận các trường Yoast này là đã xác minh. Từ khóa chính đã được đặt trong tiêu đề/nội dung và tags trang; nội dung mô tả đã có trong excerpt.
+
+
+## Điều chỉnh giao diện ngày 13/11/2026
+
+Đã xóa trường Excerpt trên ba trang Metro Hải Phòng (31894), Metro Huế (31895) và Metro Cần Thơ (31896), vì theme hiển thị đoạn trích như một dòng chữ riêng phía trên banner. Phần mô tả giới thiệu bên trong banner được giữ nguyên. Không thay đổi nội dung bài, ảnh, URL hoặc trạng thái xuất bản.
