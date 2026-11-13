@@ -93,3 +93,12 @@ Xây dựng cơ sở dữ liệu toàn quốc về đường sắt đô thị v�
 ## 9. Bước tiếp theo
 
 Hoàn thiện ba bài tổng quan Metro Hải Phòng, Metro Huế và Metro Cần Thơ; chuẩn hóa SEO, ảnh, liên kết nội bộ và chỉ cập nhật website sau khi kiểm tra quyền tải ảnh Media Library cùng trạng thái plugin kết nối.
+
+
+## Đã upload vào WordPress Media Library
+
+- **Trang sử dụng:** https://realestateproject.vn/metro-viet-nam/metro-can-tho.html (Page ID 31896).
+- Media ID **31892** – https://realestateproject.vn/wp-content/uploads/2026/11/ben-ninh-kieu-cau-di-bo-can-tho.jpg (ảnh đại diện; ALT đã đặt).
+- Media ID **31893** – https://realestateproject.vn/wp-content/uploads/2026/11/ben-ninh-kieu-song-hau-can-tho.jpg (ảnh trong bài; ALT đã đặt).
+- Caption có ghi nguồn Doanh nghiệp & Tiếp thị và VinWonders; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
+- **Trạng thái:** Đã xuất bản trang qua Jet.
