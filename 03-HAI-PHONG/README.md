@@ -32,4 +32,9 @@
 - Quyết định 5455/QĐ-UBND: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-5455-QD-UBND-2025-dieu-chinh-quy-hoach-Hai-Phong-thoi-ky-2021-2030-695185.aspx
 - Sở Xây dựng Hải Phòng: https://soxd.haiphong.gov.vn/tin-tuc/tong-hop-y-kien-tiep-thu-giai-trinh-y-kien-gop-y-phan-bien-xa-hoi-doi-voi-du-thao-quyet-dinh-quy-993374
 
+## 5. Nội dung biên tập
+
+- Bài viết tổng quan: [BAI-VIET-METRO-HAI-PHONG.md](BAI-VIET-METRO-HAI-PHONG.md)
+- Danh mục hình ảnh: [MEDIA-MANIFEST.md](MEDIA-MANIFEST.md)
+
 **Quy tắc:** Không tự tạo tên, chiều dài, số ga hoặc điểm đầu/cuối của tuyến khi chưa có phụ lục/bản đồ được phê duyệt.
