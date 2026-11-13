@@ -2,8 +2,8 @@
 
 - WordPress Post ID: 31953
 - Slug: tod-da-nang-co-che-quy-dat-quanh-nha-ga-phat-trien-do-thi
-- Status: Draft
-- WordPress preview: https://realestateproject.vn/?p=31953
+- Status: Publish
+- Public URL: https://realestateproject.vn/tin-tuc/tod-da-nang-co-che-quy-dat-quanh-nha-ga-phat-trien-do-thi.html
 - Category: Tin tức
 - Tags: 2801, 2802, 2797, 2800
 
