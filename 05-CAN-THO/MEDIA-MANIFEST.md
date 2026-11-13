@@ -23,3 +23,12 @@
 - Đặt ALT mô tả chính xác nội dung ảnh, không gán ảnh cảnh quan thành ảnh Metro.
 - Dùng ảnh trong bài với caption rõ ràng.
 - Chỉ tải lên Media Library sau khi WPVibe upload đã hoạt động.
+
+
+## Đã upload vào WordPress Media Library
+
+- **Trang sử dụng:** https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895).
+- Media ID **31890** – https://realestateproject.vn/wp-content/uploads/2026/11/song-huong-cau-truong-tien-hue.jpg (ảnh đại diện; ALT đã đặt).
+- Media ID **31891** – https://realestateproject.vn/wp-content/uploads/2026/11/kinh-thanh-hue-khong-gian-do-thi.jpg (ảnh trong bài; ALT đã đặt).
+- Caption có ghi nguồn Vietnam.vn và Tuổi Trẻ; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
+- **Trạng thái:** Đã xuất bản trang qua Jet.
