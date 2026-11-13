@@ -2,8 +2,8 @@
 
 - WordPress Post ID: 31955
 - Slug: bat-dong-san-da-nang-truoc-metro-tod-co-hoi-va-rui-ro
-- Status: Draft
-- WordPress preview: https://realestateproject.vn/?p=31955
+- Status: Publish
+- Public URL: https://realestateproject.vn/tin-tuc/bat-dong-san-da-nang-truoc-metro-tod-co-hoi-va-rui-ro.html
 - Category: Tin tức
 - Tags: 2801, 2802, 2797, 2800
 
