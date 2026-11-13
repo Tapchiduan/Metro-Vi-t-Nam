@@ -92,13 +92,6 @@ Real Estate Project sẽ tiếp tục cập nhật văn bản quy hoạch, bản
 
 **Góc nhìn Real Estate Project:** Metro chỉ tạo ra giá trị bền vững khi quy hoạch giao thông, đầu tư hạ tầng, tổ chức nhà ga và phát triển đô thị được triển khai đồng bộ. Mọi nhận định về bất động sản cần dựa trên hồ sơ pháp lý và tiến độ thực tế, không chỉ dựa vào thông tin quy hoạch sơ bộ.
 
-## Nguồn tham khảo
-
-1. Quyết định 5455/QĐ-UBND ngày 31/12/2025: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-5455-QD-UBND-2025-dieu-chinh-quy-hoach-Hai-Phong-thoi-ky-2021-2030-695185.aspx
-2. Quyết định 1516/QĐ-TTg ngày 02/12/2023: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-1516-QD-TTg-2023-Quy-hoach-Thanh-pho-Hai-Phong-2021-2030-tam-nhin-2050-588978.aspx
-3. Quy hoạch chung thành phố Hải Phòng đến năm 2040, tầm nhìn 2050: https://quyhoach.xaydung.gov.vn/vn/Pages/chitietquyhoach.aspx?qhID=15170&tieude=dieu-chinh-quy-hoach-chung-thanh-pho-hai-phong-den-nam-2040--tam-nhin-den-nam-2050.aspx
-4. Sở Xây dựng Hải Phòng: https://soxd.haiphong.gov.vn/tin-tuc/tong-hop-y-kien-tiep-thu-giai-trinh-y-kien-gop-y-phan-bien-xa-hoi-doi-voi-du-thao-quyet-dinh-quy-993374
-
 *Ngày rà soát: 13/11/2026.*
 
 ## Trạng thái xuất bản WordPress
