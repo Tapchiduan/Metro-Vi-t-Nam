@@ -38,4 +38,9 @@ Quy hoạch năm 2023 từng nêu 3 hành lang đường sắt đô thị: Cái 
 - Quyết định 1519/QĐ-TTg: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-1519-QD-TTg-2023-Quy-hoach-Thanh-pho-Can-Tho-2021-2030-tam-nhin-2050-588979.aspx
 - Quyết định 2404/QĐ-TTg điều chỉnh quy hoạch mạng lưới đường sắt quốc gia: https://moc.gov.vn/vn/Pages/chitiettin.aspx?ChuyenmucID=1196&IDNews=89340&tieude=quyet-dinh-phe-duyet-dieu-chinh-quy-hoach-mang-luoi-duong-sat-thoi-ky-2021--2030-tam-nhin-den-nam-2050.aspx
 
+## 5. Nội dung biên tập
+
+- Bài viết tổng quan: [BAI-VIET-METRO-CAN-THO.md](BAI-VIET-METRO-CAN-THO.md)
+- Danh mục hình ảnh: [MEDIA-MANIFEST.md](MEDIA-MANIFEST.md)
+
 **Quy tắc:** Dùng danh mục 4 tuyến của Quyết định 3639 làm dữ liệu cập nhật; không gộp tuyến quốc gia TP.HCM – Cần Thơ – Cà Mau vào Metro.
