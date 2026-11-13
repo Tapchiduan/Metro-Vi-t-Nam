@@ -1,7 +1,7 @@
 # Bộ ảnh Metro Huế – Media Manifest
 
 **Ngày rà soát:** 13/11/2026  
-**Trạng thái:** Chưa tìm thấy ảnh phù hợp trong Media Library theo các từ khóa Huế/Đại Nội/sông Hương; ảnh bổ sung đã được tải lên Media Library qua Jet.
+**Trạng thái:** Đã tải ảnh phù hợp lên WordPress Media Library qua Jet và xuất bản trang.
 
 ## Ảnh đề xuất
 
@@ -24,18 +24,11 @@
 - Tạo tên tệp có dấu không dấu, ALT mô tả đúng nội dung ảnh, không nhồi từ khóa.
 - Ảnh được tải lên Media Library qua Jet sau khi kiểm tra nguồn và đặt ALT/caption.
 
+## WordPress và trạng thái SEO
 
-## Đã upload vào WordPress Media Library
-
-- **Trang sử dụng:** https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html (Page ID 31894).
-- **Ảnh đại diện và ảnh trong bài:** Media ID 31502 – https://realestateproject.vn/wp-content/uploads/2026/11/cang-container-hai-phong-tu-tren-cao.jpg
-- **Ảnh tư liệu quy hoạch có sẵn:** Media ID 31501; không dùng làm sơ đồ Metro hoặc bản đồ 9 tuyến.
-- **Trạng thái:** Đã xuất bản trang qua Jet. Chưa tải thêm ảnh trung tâm Hải Phòng do nguồn ảnh bên ngoài chưa xác minh quyền sử dụng.
-
-
-## Trạng thái trang và SEO
-
-- Trang đã xuất bản qua Jet: https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895).
-- Ảnh đại diện Media ID 31890; ảnh nội dung Media ID 31891.
+- Trang đã xuất bản qua Jet: https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895; trang cha 27979).
+- Ảnh đại diện Media ID 31890 – https://realestateproject.vn/wp-content/uploads/2026/11/song-huong-cau-truong-tien-hue.jpg.
+- Ảnh trong bài Media ID 31891 – https://realestateproject.vn/wp-content/uploads/2026/11/kinh-thanh-hue-khong-gian-do-thi.jpg.
+- Caption ghi nguồn Vietnam.vn và Tuổi Trẻ; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
 - SEO title: Metro Huế: Quy hoạch đường sắt đô thị đến năm 2045.
-- Meta description đã lưu ở excerpt trang; từ khóa chính Metro Huế có trong tiêu đề, nội dung và tags trang.
+- Meta description đã lưu trong excerpt; từ khóa chính Metro Huế có trong tiêu đề, nội dung và tags trang.
