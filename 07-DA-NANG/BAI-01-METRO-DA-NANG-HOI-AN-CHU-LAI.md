@@ -2,8 +2,8 @@
 
 - WordPress Post ID: 31951
 - Slug: metro-da-nang-hoi-an-chu-lai-tien-trinh-de-xuat-du-an
-- Status: Draft
-- WordPress preview: https://realestateproject.vn/?p=31951
+- Status: Publish
+- Public URL: https://realestateproject.vn/tin-tuc/metro-da-nang-hoi-an-chu-lai-tien-trinh-de-xuat-du-an.html
 - Category: Tin tức
 - Tags: 2798, 2802, 2797, 2799
 
