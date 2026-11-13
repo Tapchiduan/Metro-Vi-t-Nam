@@ -2,8 +2,8 @@
 
 - WordPress Post ID: 31954
 - Slug: hanh-lang-ga-metro-da-nang-san-bay-hoi-an-cac-cuc-do-thi
-- Status: Draft
-- WordPress preview: https://realestateproject.vn/?p=31954
+- Status: Publish
+- Public URL: https://realestateproject.vn/tin-tuc/hanh-lang-ga-metro-da-nang-san-bay-hoi-an-cac-cuc-do-thi.html
 - Category: Tin tức
 - Tags: 2802, 2797, 2799, 2800
 
