@@ -108,13 +108,6 @@ Real Estate Project sẽ tiếp tục theo dõi các văn bản của Chính ph�
 
 **Góc nhìn Real Estate Project:** Với Huế, hiệu quả của giao thông công cộng cần được đánh giá cùng mục tiêu bảo tồn di sản, cảnh quan và môi trường. Phát triển tàu điện không chỉ là câu chuyện tốc độ di chuyển mà còn là bài toán tổ chức không gian đô thị bền vững.
 
-## Nguồn tham khảo
-
-1. Quyết định 108/QĐ-TTg ngày 26/01/2024: https://khamphahue.com.vn/Portals/0/Attachs/Nam2024/T2/108_QD-TTg_26012024_1-signed.pdf
-2. Quy hoạch tỉnh Thừa Thiên Huế thời kỳ 2021–2030: https://xaydungchinhsach.chinhphu.vn/toan-van-quy-hoach-tinh-thua-thien-hue-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240107215655699.htm
-3. Sở Xây dựng thành phố Huế trả lời về hiệu lực Quyết định 108: https://tuongtac.hue.gov.vn/phan-anh/hoi-ve-hieu-luc-quyet-dinh-108-qd-ttg-sau-mo-hinh-chinh-quyen-2-cap-a213723.html
-4. Dự thảo Quy chế quản lý kiến trúc thành phố Huế năm 2026: https://phongquang.hue.gov.vn/Portals/44/Uploads/H57.105/Nam2026/Thang6/DU_THAO_QUY_CHE_QUAN_LY_KIEN_TRUC_THANH_PHO_HUE_5_6_2026_17_44_29_651_CH_10_6_2026_09_47_36_422_SA.pdf
-
 *Ngày rà soát: 13/11/2026.*
 
 ## Trạng thái xuất bản WordPress
