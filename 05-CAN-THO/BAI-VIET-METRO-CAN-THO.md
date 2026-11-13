@@ -1,7 +1,7 @@
 # Metro Cần Thơ: Quy hoạch 4 tuyến đường sắt đô thị mới nhất
 
 **SEO title:** Metro Cần Thơ: Quy hoạch 4 tuyến đường sắt đô thị  
-**Meta description:** Cập nhật quy hoạch Metro Cần Thơ theo Quyết định 3639/QĐ-UBND: 4 tuyến đường sắt đô thị, ga Cần Thơ, kết nối Ô Môn, Thốt Nốt, Vĩnh Thạnh và Trần Đề.  
+**Meta description:** Cập nhật quy hoạch 4 tuyến đường sắt đô thị Cần Thơ, ga Hưng Phú, định hướng TOD và phân biệt Metro với tuyến đường sắt quốc gia TP.HCM – Cần Thơ mới nhất.  
 **Từ khóa chính:** Metro Cần Thơ  
 **Từ khóa phụ:** quy hoạch Metro Cần Thơ; đường sắt đô thị Cần Thơ; 4 tuyến Metro Cần Thơ; ga Cần Thơ; đường sắt TP.HCM – Cần Thơ; TOD Cần Thơ  
 **Tags:** Metro Việt Nam, Metro Cần Thơ, đường sắt đô thị, quy hoạch Cần Thơ, ga Cần Thơ, TOD, hạ tầng giao thông
@@ -133,5 +133,5 @@ Bạn đọc có thể xem thêm [chuyên trang Metro Việt Nam](https://reales
 - **Ảnh đại diện:** Media ID 31892 – Bến Ninh Kiều và cầu đi bộ Cần Thơ.
 - **Ảnh trong bài:** Media ID 31892, 31893 – Bến Ninh Kiều và bờ sông Hậu.
 - **SEO title:** Metro Cần Thơ: Quy hoạch 4 tuyến đường sắt đô thị.
-- **Meta description:** Cập nhật quy hoạch 4 tuyến đường sắt đô thị Cần Thơ, ga Hưng Phú, định hướng TOD và phân biệt Metro với tuyến đường sắt quốc gia TP.HCM – Cần Thơ.
+- **Meta description:** Cập nhật quy hoạch 4 tuyến đường sắt đô thị Cần Thơ, ga Hưng Phú, định hướng TOD và phân biệt Metro với tuyến đường sắt quốc gia TP.HCM – Cần Thơ mới nhất.
 - **Từ khóa chính:** Metro Cần Thơ. **Tags trang:** metro Việt Nam; đường sắt đô thị Việt Nam; quy hoạch metro Việt Nam; Metro Cần Thơ.
