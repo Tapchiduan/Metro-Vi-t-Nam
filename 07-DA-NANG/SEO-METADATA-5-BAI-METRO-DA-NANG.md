@@ -65,3 +65,9 @@ Trang Metro Việt Nam: https://realestateproject.vn/metro-viet-nam.html
 - Nghị quyết 259/2025/QH15 tạo cơ chế TOD đặc thù; ranh giới từng khu TOD, chỉ tiêu đất và vị trí ga phải căn cứ quy hoạch/quyết định cụ thể.
 - Không khẳng định bản đồ 16 trục MRT/LRT là mạng lưới đã được phê duyệt đầu tư.
 - Không chèn link nguồn bên ngoài trong nội dung bài theo yêu cầu người dùng.
+
+## Trạng thái xuất bản và liên kết ngoài
+
+- Cả 5 bài đã xuất bản ngày 13/11/2026.
+- Nội dung công khai đã được rà soát; không có anchor link dẫn tới tên miền bên ngoài. Liên kết ảnh Media Library và backlink nội bộ được giữ nguyên.
+- Meta Description, Focus Keyphrase và Related Keyphrases vẫn là đề xuất lưu tại GitHub, chưa được ghi vào trường Yoast.
