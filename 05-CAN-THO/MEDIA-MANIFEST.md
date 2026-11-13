@@ -1,7 +1,7 @@
 # Bộ ảnh Metro Cần Thơ – Media Manifest
 
 **Ngày rà soát:** 13/11/2026  
-**Trạng thái:** Chưa tìm thấy ảnh phù hợp trong Media Library theo từ khóa Cần Thơ/Ninh Kiều; ảnh bổ sung đã được tải lên Media Library qua Jet.
+**Trạng thái:** Đã tải ảnh phù hợp lên WordPress Media Library qua Jet và xuất bản trang.
 
 ## Ảnh đề xuất
 
@@ -24,19 +24,11 @@
 - Dùng ảnh trong bài với caption rõ ràng.
 - Ảnh được tải lên Media Library qua Jet sau khi kiểm tra nguồn và đặt ALT/caption.
 
+## WordPress và trạng thái SEO
 
-## Đã upload vào WordPress Media Library
-
-- **Trang sử dụng:** https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895).
-- Media ID **31890** – https://realestateproject.vn/wp-content/uploads/2026/11/song-huong-cau-truong-tien-hue.jpg (ảnh đại diện; ALT đã đặt).
-- Media ID **31891** – https://realestateproject.vn/wp-content/uploads/2026/11/kinh-thanh-hue-khong-gian-do-thi.jpg (ảnh trong bài; ALT đã đặt).
-- Caption có ghi nguồn Vietnam.vn và Tuổi Trẻ; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
-- **Trạng thái:** Đã xuất bản trang qua Jet.
-
-
-## Trạng thái trang và SEO
-
-- Trang đã xuất bản qua Jet: https://realestateproject.vn/metro-viet-nam/metro-can-tho.html (Page ID 31896).
-- Ảnh đại diện Media ID 31892; ảnh nội dung Media ID 31893.
+- Trang đã xuất bản qua Jet: https://realestateproject.vn/metro-viet-nam/metro-can-tho.html (Page ID 31896; trang cha 27979).
+- Ảnh đại diện Media ID 31892 – https://realestateproject.vn/wp-content/uploads/2026/11/ben-ninh-kieu-cau-di-bo-can-tho.jpg.
+- Ảnh trong bài Media ID 31893 – https://realestateproject.vn/wp-content/uploads/2026/11/ben-ninh-kieu-song-hau-can-tho.jpg.
+- Caption ghi nguồn Doanh nghiệp & Tiếp thị và VinWonders; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
 - SEO title: Metro Cần Thơ: Quy hoạch 4 tuyến đường sắt đô thị.
-- Meta description đã lưu ở excerpt trang; từ khóa chính Metro Cần Thơ có trong tiêu đề, nội dung và tags trang.
+- Meta description đã lưu trong excerpt; từ khóa chính Metro Cần Thơ có trong tiêu đề, nội dung và tags trang.
