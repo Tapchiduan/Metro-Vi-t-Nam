@@ -35,4 +35,9 @@ Các thông số này là dữ liệu trong quy hoạch tỉnh trước đây. C
 - Sở Xây dựng Huế trả lời hiệu lực Quyết định 108: https://tuongtac.hue.gov.vn/phan-anh/hoi-ve-hieu-luc-quyet-dinh-108-qd-ttg-sau-mo-hinh-chinh-quyen-2-cap-a213723.html
 - Dự thảo Quy chế quản lý kiến trúc thành phố Huế năm 2026 (chỉ dùng như tài liệu dự thảo, không phải quy hoạch tuyến được duyệt): https://phongquang.hue.gov.vn/Portals/44/Uploads/H57.105/Nam2026/Thang6/DU_THAO_QUY_CHE_QUAN_LY_KIEN_TRUC_THANH_PHO_HUE_5_6_2026_17_44_29_651_CH_10_6_2026_09_47_36_422_SA.pdf
 
+## 5. Nội dung biên tập
+
+- Bài viết tổng quan: [BAI-VIET-METRO-HUE.md](BAI-VIET-METRO-HUE.md)
+- Danh mục hình ảnh: [MEDIA-MANIFEST.md](MEDIA-MANIFEST.md)
+
 **Quy tắc:** Không ghi các tuyến 15 km/30 km là dự án đầu tư; phải ghi rõ nguồn quy hoạch cũ và ngày rà soát.
