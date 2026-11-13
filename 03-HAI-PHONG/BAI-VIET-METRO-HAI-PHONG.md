@@ -1,7 +1,7 @@
 # Metro Hải Phòng: Quy hoạch đường sắt đô thị mới nhất
 
 **SEO title:** Metro Hải Phòng: Quy hoạch đường sắt đô thị mới nhất  
-**Meta description:** Cập nhật quy hoạch Metro Hải Phòng, định hướng mạng lưới đường sắt đô thị, kết nối trung tâm, Bắc sông Cấm, Cát Bi, cảng biển và tiềm năng TOD.  
+**Meta description:** Cập nhật quy hoạch Metro Hải Phòng, mạng lưới đường sắt đô thị, kết nối trung tâm, Bắc sông Cấm, sân bay Cát Bi, cảng biển và định hướng TOD hiện nay.  
 **Từ khóa chính:** Metro Hải Phòng  
 **Từ khóa phụ:** quy hoạch Metro Hải Phòng; đường sắt đô thị Hải Phòng; 9 tuyến đường sắt đô thị Hải Phòng; quy hoạch giao thông Hải Phòng; TOD Hải Phòng  
 **Tags:** Metro Việt Nam, Metro Hải Phòng, đường sắt đô thị, quy hoạch giao thông, TOD, Hải Phòng
