@@ -2,8 +2,8 @@
 
 - WordPress Post ID: 31952
 - Slug: quy-hoach-metro-da-nang-mrt-lrt-mang-luoi-giao-thong
-- Status: Draft
-- WordPress preview: https://realestateproject.vn/?p=31952
+- Status: Publish
+- Public URL: https://realestateproject.vn/tin-tuc/quy-hoach-metro-da-nang-mrt-lrt-mang-luoi-giao-thong.html
 - Category: Tin tức
 - Tags: 2798, 2802, 2797
 
