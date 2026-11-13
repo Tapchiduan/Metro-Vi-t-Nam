@@ -102,3 +102,12 @@ Hoàn thiện ba bài tổng quan Metro Hải Phòng, Metro Huế và Metro Cầ
 - Media ID **31893** – https://realestateproject.vn/wp-content/uploads/2026/11/ben-ninh-kieu-song-hau-can-tho.jpg (ảnh trong bài; ALT đã đặt).
 - Caption có ghi nguồn Doanh nghiệp & Tiếp thị và VinWonders; ảnh chỉ minh họa cảnh quan, không thể hiện tuyến hoặc nhà ga Metro.
 - **Trạng thái:** Đã xuất bản trang qua Jet.
+
+
+## Liên kết hub đã cập nhật
+
+Trang hub Metro Việt Nam (Page ID 27979) đã được bổ sung liên kết nội bộ trực tiếp đến cả ba chuyên trang mới: [Metro Hải Phòng](https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html), [Metro Huế](https://realestateproject.vn/metro-viet-nam/metro-hue.html), [Metro Cần Thơ](https://realestateproject.vn/metro-viet-nam/metro-can-tho.html).
+
+## Lưu ý metadata SEO
+
+SEO title đã đặt theo tiêu đề trang và meta description đã lưu trong excerpt WordPress. Jet REST hiện không trả lại các trường meta Yoast riêng (_yoast_wpseo_title, _yoast_wpseo_metadesc, _yoast_wpseo_focuskw) sau cập nhật; do đó không ghi nhận các trường Yoast này là đã xác minh. Từ khóa chính đã được đặt trong tiêu đề/nội dung và tags trang; nội dung mô tả đã có trong excerpt.
