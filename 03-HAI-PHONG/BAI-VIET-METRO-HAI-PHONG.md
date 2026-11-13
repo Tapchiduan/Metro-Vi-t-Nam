@@ -100,3 +100,13 @@ Real Estate Project sẽ tiếp tục cập nhật văn bản quy hoạch, bản
 4. Sở Xây dựng Hải Phòng: https://soxd.haiphong.gov.vn/tin-tuc/tong-hop-y-kien-tiep-thu-giai-trinh-y-kien-gop-y-phan-bien-xa-hoi-doi-voi-du-thao-quyet-dinh-quy-993374
 
 *Ngày rà soát: 13/11/2026.*
+
+## Trạng thái xuất bản WordPress
+
+- **Trạng thái:** Đã xuất bản trực tiếp qua kết nối Jet.
+- **URL:** https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html
+- **Page ID:** 31894; **trang cha:** Metro Việt Nam (27979).
+- **Ảnh đại diện / ảnh trong bài:** Media ID 31502 – Cảng container Hải Phòng nhìn từ trên cao (ảnh bối cảnh cảng/logistics, không phải ảnh Metro).
+- **SEO title:** Metro Hải Phòng: Quy hoạch đường sắt đô thị mới nhất.
+- **Meta description:** Cập nhật quy hoạch Metro Hải Phòng, mạng lưới đường sắt đô thị, kết nối trung tâm, Bắc sông Cấm, sân bay Cát Bi, cảng biển và định hướng TOD hiện nay.
+- **Từ khóa chính:** Metro Hải Phòng. **Tags trang:** metro Việt Nam; đường sắt đô thị Việt Nam; quy hoạch metro Việt Nam; metro Hải Phòng.
