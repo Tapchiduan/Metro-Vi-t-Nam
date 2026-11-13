@@ -1,37 +1,38 @@
 # Huế – Hồ sơ đường sắt đô thị
 
-**Ngày rà soát khởi tạo:** 13/11/2026  
-**Trạng thái tổng quan:** Có các định hướng đường sắt đô thị và đường sắt du lịch trong Quy hoạch tỉnh Thừa Thiên Huế thời kỳ 2021–2030, tầm nhìn 2050. Cần xác minh tính kế thừa trong quy hoạch thành phố Huế hiện hành sau sắp xếp hành chính năm 2025.
+**Ngày rà soát:** 13/11/2026  
+**Trạng thái:** Định hướng nghiên cứu trong Quy hoạch chung đô thị Thừa Thiên Huế đến năm 2045, tầm nhìn 2065; chưa có căn cứ xác nhận các tuyến Metro đã khởi công hoặc vận hành.
 
-## 1. Các hướng tuyến được ghi trong quy hoạch trước đây
+## 1. Quy hoạch hiện hành cần ưu tiên
 
-Quy hoạch tỉnh Thừa Thiên Huế công bố trên Cổng thông tin Chính phủ nêu các định hướng:
+Quyết định 108/QĐ-TTg ngày 26/01/2024 phê duyệt Quy hoạch chung đô thị Thừa Thiên Huế đến năm 2045, tầm nhìn 2065. Theo phản hồi của Sở Xây dựng thành phố Huế ngày 23/01/2026, quy hoạch này vẫn còn hiệu lực sau khi thực hiện mô hình chính quyền địa phương hai cấp; thành phố đồng thời giao rà soát để đề xuất điều chỉnh nếu cần.
 
-1. Đường sắt du lịch Huế – Đà Nẵng, hướng tuyến song song với đường sắt Hà Nội – TP.HCM qua địa bàn Thừa Thiên Huế; chiều dài khoảng 100 km theo phụ lục quy hoạch.
-2. Tuyến đô thị số 01: kết nối Cảng hàng không quốc tế Phú Bài với khu vực trung tâm đô thị hiện hữu theo hướng đường Tố Hữu nối dài; chiều dài dự kiến khoảng 15 km.
-3. Tuyến đô thị số 02: kết nối khu vực ga Huế (đường sắt tốc độ cao) với trung tâm Hương Trà – đô thị Phong Điền theo hướng vành đai 2 phía Đông; chiều dài dự kiến khoảng 30 km.
-4. Tuyến đô thị số 03: kết nối trung tâm Hương Trà – trung tâm đô thị hiện hữu với khu vực ven biển Thuận An theo hướng vành đai 2 phía Tây và Tây Nam; chiều dài dự kiến khoảng 30 km.
+Phần định hướng giao thông công cộng của Quyết định 108 nêu nghiên cứu bố trí tàu điện kết hợp trên cao và ngầm trong khu vực đô thị trung tâm đến năm 2045. Hành lang mô tả kết nối từ sân bay Phú Bài, Thuận An, liên hoàn và kéo dài đến Hương Trà, Phong Điền và Chân Mây. Đây là định hướng nghiên cứu, không phải dự án đã được phê duyệt đầu tư.
 
-Đây là nội dung của quy hoạch tỉnh trước sắp xếp, không phải bằng chứng cho thấy các tuyến đã có quyết định đầu tư hoặc đang thi công.
+## 2. Các tuyến trong quy hoạch tỉnh trước đây
 
-## 2. Việc phải xác minh trước khi xuất bản
+Quy hoạch tỉnh Thừa Thiên Huế thời kỳ 2021–2030, tầm nhìn 2050 (Quyết định 1745/QĐ-TTg) từng liệt kê:
 
-- Quy hoạch thành phố Huế hiện hành sau khi trở thành thành phố trực thuộc Trung ương và sau sắp xếp địa giới.
-- Các tuyến nêu trên còn nguyên hướng tuyến, được kế thừa, điều chỉnh hay đã thay thế.
-- Cơ quan quản lý, loại hình kỹ thuật và ranh giới hành lang.
-- Quan hệ giữa tuyến du lịch Huế – Đà Nẵng và tuyến đường sắt quốc gia hiện hữu/đường sắt tốc độ cao Bắc – Nam.
-- Tính khả thi, nguồn vốn và giai đoạn triển khai; không tự đặt mốc khởi công.
+1. Tuyến số 01: sân bay Phú Bài – trung tâm đô thị hiện hữu theo hướng đường Tố Hữu nối dài; khoảng 15 km.
+2. Tuyến số 02: khu vực ga Huế (đường sắt tốc độ cao) – trung tâm Hương Trà – đô thị Phong Điền theo hướng vành đai 2 phía Đông; khoảng 30 km.
+3. Tuyến số 03: trung tâm Hương Trà – trung tâm đô thị hiện hữu – khu vực ven biển Thuận An theo hướng vành đai 2 phía Tây và Tây Nam; khoảng 30 km.
+4. Tuyến đường sắt du lịch Huế – Đà Nẵng, khoảng 100 km.
 
-## 3. Hướng phát triển nội dung
+Các thông số này là dữ liệu trong quy hoạch tỉnh trước đây. Cần đối chiếu với Quy hoạch chung 108 và các quy hoạch chuyên ngành hiện hành trước khi coi là hướng tuyến/chiều dài được giữ nguyên. Đường sắt du lịch Huế – Đà Nẵng phải được theo dõi riêng, không nhập chung Metro nội đô.
 
-- Metro Huế: tổng quan định hướng đường sắt đô thị.
-- Đường sắt đô thị Huế – sân bay Phú Bài: kiểm chứng hành lang tuyến số 01.
-- Định hướng đường sắt đô thị Hương Trà – Phong Điền.
-- Định hướng kết nối trung tâm Huế – Thuận An.
-- Đường sắt du lịch Huế – Đà Nẵng: bài riêng, phân biệt với Metro nội đô.
+## 3. Hướng rà soát tiếp
 
-## 4. Nguồn nền tảng
+- Báo cáo rà soát Quy hoạch chung 108 sau sắp xếp hành chính.
+- Quy hoạch thành phố Huế thời kỳ 2021–2030, tầm nhìn 2050 và quy hoạch chuyên ngành giao thông.
+- Vị trí ga, depot, hướng tuyến, công nghệ và phương án kết nối xe buýt.
+- Tác động đến khu vực di sản, cảnh quan sông Hương và hành lang bảo vệ di tích.
+- Phân loại rõ tàu điện đô thị, đường sắt du lịch, đường sắt quốc gia và đường sắt tốc độ cao.
 
-- Cổng thông tin Chính phủ – Toàn văn Quy hoạch tỉnh Thừa Thiên Huế thời kỳ 2021–2030, tầm nhìn 2050: https://xaydungchinhsach.chinhphu.vn/toan-van-quy-hoach-tinh-thua-thien-hue-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240107215655699.htm
+## 4. Nguồn chính
 
-**Trạng thái dữ liệu:** Các thông số tuyến ở mục 1 được ghi nhận là định hướng trong quy hoạch tỉnh trước đây. Chưa gắn nhãn “đã phê duyệt đầu tư”. Hồ sơ cần được cập nhật bằng văn bản quy hoạch hiện hành của thành phố Huế.
+- Quyết định 108/QĐ-TTg: https://khamphahue.com.vn/Portals/0/Attachs/Nam2024/T2/108_QD-TTg_26012024_1-signed.pdf
+- Quy hoạch tỉnh Thừa Thiên Huế: https://xaydungchinhsach.chinhphu.vn/toan-van-quy-hoach-tinh-thua-thien-hue-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240107215655699.htm
+- Sở Xây dựng Huế trả lời hiệu lực Quyết định 108: https://tuongtac.hue.gov.vn/phan-anh/hoi-ve-hieu-luc-quyet-dinh-108-qd-ttg-sau-mo-hinh-chinh-quyen-2-cap-a213723.html
+- Dự thảo Quy chế quản lý kiến trúc thành phố Huế năm 2026 (chỉ dùng như tài liệu dự thảo, không phải quy hoạch tuyến được duyệt): https://phongquang.hue.gov.vn/Portals/44/Uploads/H57.105/Nam2026/Thang6/DU_THAO_QUY_CHE_QUAN_LY_KIEN_TRUC_THANH_PHO_HUE_5_6_2026_17_44_29_651_CH_10_6_2026_09_47_36_422_SA.pdf
+
+**Quy tắc:** Không ghi các tuyến 15 km/30 km là dự án đầu tư; phải ghi rõ nguồn quy hoạch cũ và ngày rà soát.
