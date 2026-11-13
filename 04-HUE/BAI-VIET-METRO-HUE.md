@@ -116,3 +116,14 @@ Real Estate Project sẽ tiếp tục theo dõi các văn bản của Chính ph�
 4. Dự thảo Quy chế quản lý kiến trúc thành phố Huế năm 2026: https://phongquang.hue.gov.vn/Portals/44/Uploads/H57.105/Nam2026/Thang6/DU_THAO_QUY_CHE_QUAN_LY_KIEN_TRUC_THANH_PHO_HUE_5_6_2026_17_44_29_651_CH_10_6_2026_09_47_36_422_SA.pdf
 
 *Ngày rà soát: 13/11/2026.*
+
+## Trạng thái xuất bản WordPress
+
+- **Trạng thái:** Đã xuất bản trực tiếp qua kết nối Jet.
+- **URL:** https://realestateproject.vn/metro-viet-nam/metro-hue.html
+- **Page ID:** 31895; **trang cha:** Metro Việt Nam (27979).
+- **Ảnh đại diện:** Media ID 31890 – Sông Hương và cầu Trường Tiền.
+- **Ảnh trong bài:** Media ID 31890, 31891 – Kinh thành Huế và không gian đô thị.
+- **SEO title:** Metro Huế: Quy hoạch đường sắt đô thị đến năm 2045.
+- **Meta description:** Cập nhật quy hoạch Metro Huế, định hướng tàu điện kết nối Phú Bài, trung tâm, Thuận An, Hương Trà, Phong Điền và Chân Mây; phân biệt quy hoạch với dự án.
+- **Từ khóa chính:** Metro Huế. **Tags trang:** metro Việt Nam; đường sắt đô thị Việt Nam; quy hoạch metro Việt Nam; Metro Huế.
