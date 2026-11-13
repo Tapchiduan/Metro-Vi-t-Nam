@@ -1,7 +1,7 @@
 # Bộ ảnh Metro Hải Phòng – Media Manifest
 
 **Ngày rà soát:** 13/11/2026  
-**Trạng thái:** Đã tìm thấy ảnh phù hợp trong Media Library; thao tác tải thêm ảnh mới đang chờ khôi phục WPVibe upload.
+**Trạng thái:** Đã tìm thấy ảnh phù hợp trong Media Library; thao tác tải thêm ảnh mới đã hoàn tất upload ảnh qua Jet.
 
 ## Ảnh đã có sẵn trong Media Library
 
@@ -22,7 +22,7 @@
 - Ảnh cảng biển chỉ minh họa bối cảnh logistics, không dùng để minh họa tuyến Metro.
 - Không sử dụng bản đồ định hướng không gian cũ như bản đồ tuyến đường sắt đô thị.
 - Chưa có bản đồ chính thức thể hiện đầy đủ hướng tuyến Metro Hải Phòng; không tự vẽ tuyến hoặc ga.
-- Khi WPVibe upload hoạt động trở lại, bổ sung ảnh trung tâm thành phố sau khi xác minh quyền sử dụng, ghi ALT tiếng Việt và gắn vào bài viết.
+- Ảnh trung tâm thành phố chưa bổ sung do chưa xác minh được quyền sử dụng nguồn ảnh; trang hiện dùng ảnh cảng container đã có sẵn trong Media Library.
 
 
 ## Đã triển khai trên WordPress qua Jet
@@ -31,4 +31,12 @@
 - Trang Metro Huế: https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895), ảnh Media ID 31890 và 31891.
 - Trang Metro Cần Thơ: https://realestateproject.vn/metro-viet-nam/metro-can-tho.html (Page ID 31896), ảnh Media ID 31892 và 31893.
 - Cả ba trang là trang con của Metro Việt Nam (Page ID 27979), đã xuất bản và có tags trang.
-- Quy trình WordPress dùng kết nối **Jet**. Không sử dụng WPVibe.
+- Quy trình WordPress dùng kết nối **Jet**. Không sử dụng Jet.
+
+
+## Trạng thái trang và SEO
+
+- Trang đã xuất bản qua Jet: https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html (Page ID 31894).
+- Ảnh đại diện/ảnh trong bài: Media ID 31502. Media ID 31501 chỉ là bản đồ định hướng không gian cũ, không dùng như sơ đồ Metro.
+- SEO title: Metro Hải Phòng: Quy hoạch đường sắt đô thị mới nhất.
+- Meta description đã lưu ở excerpt trang; từ khóa chính Metro Hải Phòng có trong tiêu đề, nội dung và tags trang.
