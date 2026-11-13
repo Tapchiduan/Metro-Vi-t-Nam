@@ -23,3 +23,12 @@
 - Không sử dụng bản đồ định hướng không gian cũ như bản đồ tuyến đường sắt đô thị.
 - Chưa có bản đồ chính thức thể hiện đầy đủ hướng tuyến Metro Hải Phòng; không tự vẽ tuyến hoặc ga.
 - Khi WPVibe upload hoạt động trở lại, bổ sung ảnh trung tâm thành phố sau khi xác minh quyền sử dụng, ghi ALT tiếng Việt và gắn vào bài viết.
+
+
+## Đã triển khai trên WordPress qua Jet
+
+- Trang Metro Hải Phòng: https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html (Page ID 31894), ảnh đại diện Media ID 31502.
+- Trang Metro Huế: https://realestateproject.vn/metro-viet-nam/metro-hue.html (Page ID 31895), ảnh Media ID 31890 và 31891.
+- Trang Metro Cần Thơ: https://realestateproject.vn/metro-viet-nam/metro-can-tho.html (Page ID 31896), ảnh Media ID 31892 và 31893.
+- Cả ba trang là trang con của Metro Việt Nam (Page ID 27979), đã xuất bản và có tags trang.
+- Quy trình WordPress dùng kết nối **Jet**. Không sử dụng WPVibe.
