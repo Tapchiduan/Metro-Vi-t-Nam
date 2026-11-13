@@ -90,10 +90,9 @@ Xây dựng cơ sở dữ liệu toàn quốc về đường sắt đô thị v�
 - Cần Thơ – Phụ lục VIII: https://cdn.thuvienphapluat.vn/uploads/nhadat/2026/NTTU/23012026/pl-can-tho.pdf
 - Đường sắt quốc gia – Quyết định 2404/QĐ-TTg: https://moc.gov.vn/vn/Pages/chitiettin.aspx?ChuyenmucID=1196&IDNews=89340&tieude=quyet-dinh-phe-duyet-dieu-chinh-quy-hoach-mang-luoi-duong-sat-thoi-ky-2021--2030-tam-nhin-den-nam-2050.aspx
 
-## 9. Bước tiếp theo
+## 9. Trạng thái triển khai
 
-Hoàn thiện ba bài tổng quan Metro Hải Phòng, Metro Huế và Metro Cần Thơ; chuẩn hóa SEO, ảnh, liên kết nội bộ và chỉ cập nhật website sau khi kiểm tra quyền tải ảnh Media Library cùng trạng thái plugin kết nối.
-
+Ba bài Metro Hải Phòng, Metro Huế và Metro Cần Thơ đã hoàn tất biên tập, xuất bản trên WordPress qua Jet, có ảnh Media Library, tags trang và liên kết nội bộ. Trang hub Metro Việt Nam đã được bổ sung liên kết đến cả ba chuyên trang. Các URL, Page ID, Media ID và ghi chú SEO được lưu trong từng bài viết và manifest địa phương.
 
 ## Đã upload vào WordPress Media Library
 
