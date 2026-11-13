@@ -14,11 +14,25 @@ Kho dữ liệu theo dõi quy hoạch, chủ trương, dự án và tiến độ
 - [Metro Hà Nội](https://realestateproject.vn/metro-viet-nam/metro-ha-noi.html)
 - [Metro Đà Nẵng](https://realestateproject.vn/metro-viet-nam/metro-da-nang.html)
 - [Metro TP. Hồ Chí Minh](https://realestateproject.vn/metro-viet-nam/metro-ho-chi-minh.html)
+  - [Metro số 2 Thủ Dầu Một – TP.HCM](https://realestateproject.vn/metro-viet-nam/metro-ho-chi-minh/metro-so-2-thu-dau-mot-tphcm.html) — trang con thuộc Metro TP. Hồ Chí Minh; trạng thái: cấu trúc đã thống nhất, nội dung cần tiếp tục nghiên cứu và xác minh trước khi xuất bản.
 - [Metro Hải Phòng](https://realestateproject.vn/metro-viet-nam/metro-hai-phong.html)
 - [Metro Huế](https://realestateproject.vn/metro-viet-nam/metro-hue.html)
 - [Metro Cần Thơ](https://realestateproject.vn/metro-viet-nam/metro-can-tho.html)
 - [Metro số 12 Bến Thành – Cần Giờ](https://realestateproject.vn/metro-viet-nam/metro-ho-chi-minh/metro-so-12-ben-thanh-can-gio.html)
 - [Metro số 2 Bến Thành – Tham Lương](https://realestateproject.vn/metro-viet-nam/metro-so-2-ben-thanh-tham-luong.html)
+
+## Cấu trúc phân cấp nội dung TP. Hồ Chí Minh
+
+Metro số 2 Thủ Dầu Một – TP.HCM được xác định là **trang con của chuyên trang Metro TP. Hồ Chí Minh**, không phải chuyên trang độc lập ngang cấp với Metro TP. Hồ Chí Minh.
+
+Nguyên tắc liên kết nội dung:
+
+1. Trang Metro TP. Hồ Chí Minh liên kết xuống trang Metro số 2 Thủ Dầu Một – TP.HCM.
+2. Trang Metro số 2 Thủ Dầu Một – TP.HCM liên kết ngược về trang Metro TP. Hồ Chí Minh.
+3. Các bài báo, bài PR, cập nhật quy hoạch, hướng tuyến, nhà ga, tiến độ và phân tích bất động sản liên quan được phân loại, liên kết về đúng trang con này.
+4. Trang con liên kết đến các bài viết hỗ trợ phù hợp; các bài viết hỗ trợ liên kết trở lại trang con để hình thành cụm chủ đề.
+5. Không tạo thêm một nhánh Metro số 2 Thủ Dầu Một độc lập ở cấp Metro Việt Nam.
+6. Không thay đổi URL, nội dung hoặc trạng thái xuất bản của các bài hiện hữu nếu chưa có yêu cầu riêng.
 
 ## Kế hoạch mở rộng
 
@@ -55,7 +69,6 @@ Kế hoạch tổng thể và nguyên tắc dữ liệu: [Kế hoạch mở rộ
 ## Ngày rà soát khởi tạo
 
 13/11/2026. Đây là mốc lập hồ sơ ban đầu; các thông tin quy hoạch cũ cần được đối chiếu với văn bản điều chỉnh mới nhất trước khi xuất bản bài viết.
-
 
 ## Kết nối và quy trình website
 
